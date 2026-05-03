@@ -6,3 +6,7 @@ Swift parece ser "simples" igual Python, achei interessante e talvez eu dê mais
 LLM utilizada: GPT-5.3
 
 Atividade 02:
+Achei a linguagem C muito verbosa e de baixo nível, pra mim não é tão intuitivo e preciso olhar melhor para entender o que está acontecendo.
+Ruby tem uma sintaxe limpa, consegui me situar melhor no que estava acontecendo.
+Erlang foi a mais diferente para mim, nunca tinha visto um código nessa linguagem, achei bem verbosa também.
+LLM utilizada: GPT-5.3
