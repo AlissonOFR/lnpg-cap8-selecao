@@ -16,3 +16,5 @@ Java é mais verbosa mas gastou quase a mesma quantidade de linhas que Python e 
 LLM utilizada: GPT-5.3
 
 
+Atividade 04:
+C e Java mais verbosos mas temos mais controle sobre o código, Python é mais simples mas tem mais chances de erro, Swift é bem mais limpo.
