@@ -10,3 +10,9 @@ Achei a linguagem C muito verbosa e de baixo nível, pra mim não é tão intuit
 Ruby tem uma sintaxe limpa, consegui me situar melhor no que estava acontecendo.
 Erlang foi a mais diferente para mim, nunca tinha visto um código nessa linguagem, achei bem verbosa também.
 LLM utilizada: GPT-5.3
+
+Atividade 03:
+Java é mais verbosa mas gastou quase a mesma quantidade de linhas que Python e a estrutura delas não se difere muito em relação a do Swift.
+LLM utilizada: GPT-5.3
+
+
